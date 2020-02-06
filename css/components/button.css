@@ -1,0 +1,52 @@
+.btn-medium {
+  background: rgba(3, 168, 124, 1);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.btn-medium:hover {
+  background: rgba(10, 175, 135);
+}
+
+.btn-medium-old {
+  color: white;
+  border: 1px solid white;
+  padding: 16px 35px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 1;
+  margin-top: 10px;
+}
+
+.btn-medium-old:hover {
+  opacity: 0.8;
+  text-decoration: none;
+  color: white;
+}
+
+.btn-treehouse {
+  background: #2A5D81;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 2px;
+  font-size: 10px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.btn-treehouse:hover {
+  background: #3E4150;
+}
+
+.btn-fb {
+  color: #606785;
+  padding: 7px 40px;
+  font-size: 12px;
+}
+
+.btn-fb:hover {
+  background: #F2F2F2;
+  display: inline-block;
+}

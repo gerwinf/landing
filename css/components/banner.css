@@ -1,0 +1,27 @@
+.banner {
+  height: 80vh;
+  background: linear-gradient(255deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%);
+  background-size: cover;
+  object-fit: cover;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+
+.banner h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.banner p {
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 50px;
+}
+
+
+
+/*alternative banners
+https://images.unsplash.com/photo-1578402644494-49b32e41e04a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max*/

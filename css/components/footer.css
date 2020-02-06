@@ -1,0 +1,31 @@
+.footer {
+  margin-top: 5px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background: rgba(30,30,30, 0.1);
+
+}
+
+.links {
+  text-decoration: none;
+  justify-content: space-around;
+}
+
+.footer .fab {
+  font-size: 50px;
+  color: #30332E;
+}
+
+.footer .fab:hover {
+  opacity: 0.8;
+}
+
+.footer p {
+  color: rgba(30,30,30, 0.8);
+}
+
+.footer a {
+  padding: 0 10px;
+}
